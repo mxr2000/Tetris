@@ -1,6 +1,6 @@
-./.gradle/
-./.idea/
-./build/
-./report.md
-./report.docx
+.gradle
+.idea/
+build/
+report.md
+report.docx
 
